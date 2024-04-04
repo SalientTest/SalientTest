@@ -8,36 +8,16 @@
 	>
 
 <channel>
-	<title>benjamingath</title>
+	<title>Benjamin Gath</title>
 	<atom:link href="/SalientTest/feed/" rel="self" type="application/rss+xml" />
 	<link>/SalientTest</link>
 	<description></description>
-	<lastBuildDate>Wed, 03 Apr 2024 23:28:33 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Thu, 04 Apr 2024 19:45:03 +0000</lastBuildDate>
+	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>/SalientTest/2024/04/03/hello-world/</link>
-					<comments>/SalientTest/2024/04/03/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[benjamingath_admin]]></dc:creator>
-		<pubDate>Wed, 03 Apr 2024 23:28:33 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/SalientTest/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/SalientTest/2024/04/03/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
