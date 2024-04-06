@@ -5,5 +5,5 @@ RewriteRule ^index\.html$/ [R=301,L]
 RewriteRule ^(.*)/index\.html$/$1/ [R=301,L]
 
 ErrorDocument 404 https://salienttest.github.io/SalientTest/
-Redirect 301 /back-end-portfolio https://www.salienttest.github.io/SalientTest/Portfolio/
+Redirect 301 /back-end-portfolio/ https://www.salienttest.github.io/SalientTest/Portfolio/
 
